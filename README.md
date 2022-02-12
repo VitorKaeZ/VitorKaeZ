@@ -6,6 +6,7 @@ Olá! Eu sou o Vitor!
 
 
 ##
+
 <div align="center">
   <a href="https://github.com/VitorKaeZ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorKaeZ&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
