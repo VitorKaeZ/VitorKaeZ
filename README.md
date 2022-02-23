@@ -2,6 +2,7 @@
 Olá! Eu sou o Vitor!
 
 - Atualmente estou trabalhando com Desenvolvimento WEB e LUA/FIVEM.
+- Em busca do FullStack
 - Estou estudando Javascript 
 
 
