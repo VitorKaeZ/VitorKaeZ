@@ -2,7 +2,7 @@
 Hi There! I'm Vitor!
 
 - I'm currently work on Web and LUA/FIVEM Development.
-- i'm currently learning Javascript 
+- I'm currently learning Javascript 
 
 
 ##
