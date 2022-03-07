@@ -1,9 +1,8 @@
 
-Olá! Eu sou o Vitor!
+Hi There! I'm Vitor!
 
-- Atualmente estou trabalhando com Desenvolvimento WEB e LUA/FIVEM.
-- Em busca do FullStack
-- Estou estudando Javascript 
+- I'm currently work on Web and LUA/FIVEM Development.
+- i'm currently learning Javascript 
 
 
 ##
@@ -16,7 +15,7 @@ Olá! Eu sou o Vitor!
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
+  <img align="center" alt="Vitor-LUA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
 </div>
 
 ##
