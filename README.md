@@ -1,8 +1,9 @@
 
 Hi There! I'm Vitor!
 
-- I'm currently work on Web and LUA/FIVEM Development.
-- I'm currently learning Javascript 
+💻 Web and LUA/FIVEM Developer.
+
+- I'm studying: <strong>Javascript/Typescript and Node.js </strong>
 
 
 ##
