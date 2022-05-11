@@ -1,7 +1,7 @@
 
 <h2>Hi There! I'm Vitor!</h2>
 
-<h4> 💻 On the way to becoming a Fullstack Developer.</h4>
+<h4> 🏃‍♂️ On the way to becoming a Fullstack Developer.</h4>
 
 - I'm studying: <strong>Javascript/Typescript and Node.js </strong>
 
