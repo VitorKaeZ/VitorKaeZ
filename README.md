@@ -1,9 +1,9 @@
 
-<h2>Hi There! I'm Vitor!</h2>
+<h1>Hi There! I'm Vitor!</h1>
 
-<h4> 🏃‍♂️ On the way to becoming a Fullstack Developer.</h4>
+<h3>🏃‍♂️ On the way to becoming a Fullstack Developer.</h3>
 
-- I'm studying: <strong>Javascript/Typescript and Node.js </strong>
+  - I'm studying: <strong>Javascript/Typescript and Node.js </strong>
 
 
 
