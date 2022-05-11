@@ -1,7 +1,7 @@
 
 Hi There! I'm Vitor!
 
-💻 on the way to becoming a Fullstack Developer.
+💻 On the way to becoming a Fullstack Developer.
 
 - I'm studying: <strong>Javascript/Typescript and Node.js </strong>
 
