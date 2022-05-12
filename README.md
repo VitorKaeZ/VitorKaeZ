@@ -34,6 +34,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorKaeZ&show_icons=true&text_color=ffffff&bg_color=000000&title_color=ff0000&icon_color=ff0000&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorKaeZ&langs_count=8&text_color=ffffff&bg_color=000000&title_color=ff0000&icon_color=ff0000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorKaeZ&langs_count=5&text_color=ffffff&bg_color=000000&title_color=ff0000&icon_color=ff0000"/>
 </div>
 
