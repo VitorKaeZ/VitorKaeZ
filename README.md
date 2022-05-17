@@ -1,14 +1,17 @@
+  <img min-width="50px" max-width="400px" width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=VitorKaeZ&show_icons=true&text_color=ffffff&bg_color=000000&title_color=ff0000&icon_color=ff0000&include_all_commits=true&count_private=true"/>
 
+<div align="left">
 <h1>Hi There! I'm Vitor!</h1>
 
-<h3>🏃‍♂️ On the way to becoming a Fullstack Developer.</h3>
+<p align=justify>🏃‍♂️ On the way to becoming a Fullstack Developer.</p>
 
   - I'm studying: <strong>Javascript/Typescript and Node.js </strong>
 
+ 
+</div>
 
-
-
-<div ><br>
+ <img min-width="50px" max-width="400px" width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorKaeZ&layout=compact&text_color=ffffff&bg_color=000000&title_color=ff0000&icon_color=ff0000"/>
+<div align=justify ><br>
   <div><strong>🛠 Skills </strong></div><br>
   <img align="center" alt="Vitor-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Vitor-LUA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
@@ -32,8 +35,8 @@
 
 ##
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorKaeZ&show_icons=true&text_color=ffffff&bg_color=000000&title_color=ff0000&icon_color=ff0000&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorKaeZ&langs_count=5&text_color=ffffff&bg_color=000000&title_color=ff0000&icon_color=ff0000"/>
 </div>
-
+ -->
