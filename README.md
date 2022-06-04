@@ -34,7 +34,7 @@
   <a href = "mailto:vitorcaetanoz@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.discordapp.com/users/265727811606544386"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=VitorKaeZ&label=Profile%20views&color=0e75b6&style=flat" alt="VitorKaeZ" align="right">
 ##
 
 <!-- <div align="center">
