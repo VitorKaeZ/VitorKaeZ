@@ -1,7 +1,7 @@
  
+<img min-width="50px" max-width="500px" width="100px" align="right" src="https://media.discordapp.net/attachments/780554777930498088/982443324239659048/unknown.png"/>
 
 <h1>Hi There! I'm Vitor!</h1>
-<img min-width="50px" max-width="500px" width="125px" align="right" src="https://media.discordapp.net/attachments/780554777930498088/982443324239659048/unknown.png"/>
 
 <p align=justify>🏃‍♂️ On the way to becoming a Fullstack Developer.</p>
 
