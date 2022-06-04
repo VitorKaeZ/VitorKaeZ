@@ -1,5 +1,5 @@
  
-<img min-width="50px" max-width="500px" width="100px" align="right" src="https://media.discordapp.net/attachments/780554777930498088/982443324239659048/unknown.png"/>
+<img height="150px" min-width="50px" max-width="500px" width="50px" align="right" src="https://media.discordapp.net/attachments/780554777930498088/982450503797600307/THE_GREAT.gif"/>
 
 <h1>Hi There! I'm Vitor!</h1>
 
