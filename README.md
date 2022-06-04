@@ -34,8 +34,8 @@
   <a href = "mailto:vitorcaetanoz@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.discordapp.com/users/265727811606544386"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=VitorKaeZ&label=Profile%20views&color=0e75b6&style=flat" alt="VitorKaeZ" align="right">
-##
+<!-- <img src="https://komarev.com/ghpvc/?username=VitorKaeZ&label=Profile%20views&color=0e75b6&style=flat" alt="VitorKaeZ" align="right"> -->
+
 
 <!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorKaeZ&show_icons=true&text_color=ffffff&bg_color=000000&title_color=ff0000&icon_color=ff0000&include_all_commits=true&count_private=true"/>
