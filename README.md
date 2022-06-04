@@ -1,7 +1,6 @@
  
 <img min-width="50px" max-width="500px" width="125px" align="right" src="https://media.discordapp.net/attachments/780554777930498088/982443324239659048/unknown.png"/>
-<div align=justify ><br>
-<div align="left">
+
 <h1>Hi There! I'm Vitor!</h1>
 
 <p align=justify>🏃‍♂️ On the way to becoming a Fullstack Developer.</p>
@@ -9,7 +8,7 @@
   - I'm studying: <strong>Javascript/Typescript and Node.js </strong>
 
  
-</div>
+
 
 <!--  <img min-width="50px" max-width="400px" width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorKaeZ&layout=compact&text_color=ffffff&bg_color=000000&title_color=ff0000&icon_color=ff0000"/> -->
  <img min-width="50px" max-width="400px" width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=VitorKaeZ&show_icons=true&text_color=ffffff&bg_color=000000&title_color=ff0000&icon_color=ff0000&include_all_commits=true&count_private=true"/>
