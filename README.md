@@ -1,7 +1,6 @@
  
-
-<div align=justify ><br>
 <img min-width="50px" max-width="500px" width="125px" align="right" src="https://media.discordapp.net/attachments/780554777930498088/982443324239659048/unknown.png"/>
+<div align=justify ><br>
 <div align="left">
 <h1>Hi There! I'm Vitor!</h1>
 
