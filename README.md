@@ -5,7 +5,7 @@
 
 <p align=justify>🏃‍♂️ On the way to becoming a Fullstack Developer.</p>
 
-  - I'm studying: <strong>Javascript/Typescript and Node.js </strong>
+  - I'm studying: <strong>Javascript/Typescript,React and Node.js </strong>
 
  
 
