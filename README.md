@@ -3,7 +3,7 @@
 
 <h1>Hi There! I'm Vitor!</h1>
 
-<p align=justify>🏃‍♂️ On the way to becoming a Fullstack Developer.</p>
+<p align=justify>🏃‍♂️ BackEnd Developer on the way to becoming a Fullstack Developer.</p>
 
   - I'm studying: <strong>Javascript/Typescript,React and Node.js </strong>
 
