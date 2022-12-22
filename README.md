@@ -5,7 +5,7 @@
 
 <p align=justify>🏃‍♂️ BackEnd Developer on the way to becoming a Fullstack Developer.</p>
 
-  - I'm studying: <strong>Javascript/Typescript, SQL and React </strong>
+  - I'm studying: <strong>Javascript/Typescript, LUA, OOP, SQL/NOSQL and React </strong>
 
  
 
