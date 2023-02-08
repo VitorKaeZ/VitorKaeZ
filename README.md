@@ -5,7 +5,7 @@
 
 <p align=justify>🏃‍♂️ Software Developer on the way to becoming a better developer.</p>
 
-  - I'm studying: <strong>OOP, SQL/NOSQL and React </strong>
+  - I'm studying: <strong>OOP, SQL/NOSQL</strong>
 
  
 
