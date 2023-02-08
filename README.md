@@ -11,7 +11,7 @@
 
 
 <!--  <img min-width="50px" max-width="400px" width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorKaeZ&layout=compact&text_color=ffffff&bg_color=000000&title_color=ff0000&icon_color=ff0000"/> -->
- <img min-width="50px" max-width="400px" width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=VitorKaeZ&show_icons=true&text_color=ffffff&bg_color=000000&title_color=ff0000&icon_color=ff0000&include_all_commits=true&count_private=true"/>
+ <img min-width="50px" max-width="400px" width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=VitorKaeZ&show_icons=true&text_color=ffffff&bg_color=000000&border_color=000000&title_color=ff0000&icon_color=ff0000&include_all_commits=true&count_private=true"/>
 <div align=justify ><br>
   <div><strong>🛠 Skills </strong></div><br>
   <img align="center" alt="Vitor-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
