@@ -3,7 +3,7 @@
 
 <h1>Hi There! I'm Vitor!</h1>
 
-<p align=justify>🏃‍♂️ BackEnd Developer on the way to becoming a Fullstack Developer.</p>
+<p align=justify>🏃‍♂️ Software Developer on the way to becoming a better developer.</p>
 
   - I'm studying: <strong>OOP, SQL/NOSQL and React </strong>
 
