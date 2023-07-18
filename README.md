@@ -5,10 +5,6 @@
 
 <p align=justify>🏃‍♂️ Software Developer on the way to becoming a better developer.</p>
 
-  - I'm studying: <strong>OOP, SQL/NOSQL</strong>
-
- 
-
 
 <!--  <img min-width="50px" max-width="400px" width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorKaeZ&layout=compact&text_color=ffffff&bg_color=000000&title_color=ff0000&icon_color=ff0000"/> -->
  <img min-width="50px" max-width="400px" width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=VitorKaeZ&show_icons=true&text_color=ffffff&bg_color=000000&border_color=000000&title_color=ff0000&icon_color=ff0000&include_all_commits=true&count_private=true"/>
