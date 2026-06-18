@@ -74,15 +74,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=VitorKaeZ&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorKaeZ&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 ### ✉️ Contato
 
 <a href="https://www.linkedin.com/in/vitorkaez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
