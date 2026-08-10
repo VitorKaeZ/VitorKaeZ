@@ -5,7 +5,7 @@
 <p align="justify">
 🚀 <strong>Full-Stack Software Developer</strong> | <strong>AI &amp; Automation Specialist</strong><br>
 💡 4+ anos construindo aplicações web de ponta a ponta no ecossistema <strong>TypeScript/JavaScript</strong>.<br>
-🤖 Especializado em <strong>IA aplicada</strong>: agentes baseados em LLM, chatbots, servidores <strong>MCP</strong> (Model Context Protocol), RAG e automação com n8n.<br>
+🤖 Especializado em <strong>IA aplicada</strong>: agentes baseados em LLM, chatbots, servidores <strong>MCP</strong> (Model Context Protocol), RAG e automação.<br>
 🧹 Foco em código limpo, testável e bem documentado, alinhado às metodologias ágeis.<br>
 📍 São Carlos – São Paulo, Brasil
 </p>
@@ -14,7 +14,7 @@
 
 ### 🧠 O que eu faço
 
-- 🤖 **Agentes de IA & Chatbots** — Soluções conversacionais integradas a WhatsApp, Discord e fluxos n8n usando **Google Gemini**, **OpenAI** e **LangChain**.
+- 🤖 **Agentes de IA & Chatbots** — Soluções conversacionais integradas a WhatsApp, Discord usando **Google Gemini**, **OpenAI** e **LangChain**.
 - 🔌 **Servidores & Gateways MCP** — Conectando agentes de IA a ferramentas externas (Google Calendar, CRM, APIs proprietárias) em TypeScript.
 - ⚙️ **APIs REST escaláveis** — Node.js, Fastify e NestJS com validação Zod, autenticação JWT/OAuth2 e docs via Swagger.
 - 🖥️ **Front-end reativo** — Interfaces responsivas com React, Next.js, TailwindCSS e shadcn/ui.
